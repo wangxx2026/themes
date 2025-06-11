@@ -1,4 +1,4 @@
-module github.com/GoAdminGroup/themes
+module github.com/wangxx2026/themes
 
 go 1.22.10
 
