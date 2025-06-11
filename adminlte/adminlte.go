@@ -3,11 +3,11 @@ package adminlte
 import (
 	"strings"
 
-	"github.com/GoAdminGroup/themes/adminlte/resource"
-	"github.com/GoAdminGroup/themes/common"
 	adminTemplate "github.com/wangxx2026/go-admin/template"
 	"github.com/wangxx2026/go-admin/template/components"
 	"github.com/wangxx2026/go-admin/template/types"
+	"github.com/wangxx2026/themes/adminlte/resource"
+	"github.com/wangxx2026/themes/common"
 )
 
 const (
