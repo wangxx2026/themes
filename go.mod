@@ -1,14 +1,11 @@
 module github.com/wangxx2026/themes
 
-go 1.22.10
+go 1.24.3
 
-toolchain go1.24.3
-
-require github.com/wangxx2026/go-admin v1.0.2
+require github.com/wangxx2026/go-admin v1.0.5
 
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
-	github.com/GoAdminGroup/html v0.0.1 // indirect
 	github.com/NebulousLabs/fastrand v0.0.0-20181203155948-6fb6489aac4e // indirect
 	github.com/go-sql-driver/mysql v1.8.1 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
@@ -16,6 +13,7 @@ require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
+	github.com/wangxx2026/html v0.0.1 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.19.1 // indirect
